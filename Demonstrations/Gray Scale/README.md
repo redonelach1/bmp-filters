@@ -1,0 +1,1 @@
+Gray Scale Function Demonstration
